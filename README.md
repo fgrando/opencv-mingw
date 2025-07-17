@@ -1,6 +1,7 @@
 # opencv-mingw
-OpenCV demo built with MinGW
+OpenCV demo built with MinGW in Windows
 
+![environment](image-1.png)
 
     git clone --branch 4.9.0 https://github.com/opencv/opencv.git opencv4.9.0-repo
     cd opencv4.9.0-repo
